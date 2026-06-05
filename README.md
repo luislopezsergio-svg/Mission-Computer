@@ -122,7 +122,7 @@ Operator Interface
 - FPGA Integration
 - Capstone Deployment
 
-##Testing & Validation
+## Testing & Validation
 ### Planned Testing Activities:
 - GPS Acquisition Verification
 - IMU Calibration Validation
