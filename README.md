@@ -71,7 +71,7 @@ The system shall:
 - Support future sensor fusion integration.
 - Support future FPGA processing integration.
 
-## System Architecture (*Later replace with a Draw.io diagram.)
+## System Architecture //*Later replace with a Draw.io diagram.//
 GPS Module
      │
 IMU Module
