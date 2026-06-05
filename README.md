@@ -16,10 +16,10 @@ Requirements Definition
 ### Last Updated: 
 June 2026
 
-##Executive Summary
+## Executive Summary
 The Mission Computer project is a modular embedded computing platform designed to support navigation, telemetry, sensor integration, and mission data management for autonomous aerospace systems. The project serves as a long-term engineering effort focused on embedded systems, communications, sensor fusion, and mission-critical avionics architecture. Development will progress throughout the BSEE program, integrating concepts from microcontrollers, communications, digital signal processing, control systems, and FPGA design.
 
-##Primary Objectives
+## Primary Objectives
 The primary objectives of this project are:
 
 - Develop practical embedded systems experience.
