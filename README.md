@@ -20,7 +20,7 @@ Phase 1: Planning and Requirements Development
 - Sensor Fusion
 - FPGA Signal Processing
 
-##Technologies
+###Technologies
 - C/C++
 - ESP32
 - Git
@@ -29,14 +29,14 @@ Phase 1: Planning and Requirements Development
 - FPGA
 - Python
 
-##Project Roadmap
+###Project Roadmap
 
-### Phase 1
+#### Phase 1
 - Requirements Definition
 - System Architecture
 - Hardware Selection
 
-### Phase 2
+#### Phase 2
 - Sensor Integration
 - GPS Module
 - IMU Module
